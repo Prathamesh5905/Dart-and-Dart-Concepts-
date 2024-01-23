@@ -1,6 +1,6 @@
 class Rectangle {
-  double _width; // Private field
-  double _height; // Private field
+  late double _width; // Private field
+  late double _height; // Private field
 
   // Getter for width
   double get width {
